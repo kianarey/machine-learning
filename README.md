@@ -1,6 +1,6 @@
 # Machine Learning
 
-This repository includes all assignments completed by me from graduate course `CSCI 5521 Machine Learning` offered by University of Minnesota - Twin Cities, MN during Spring 2021
+This repository includes all assignments completed by me from graduate course `CSCI 5521 Machine Learning` offered by University of Minnesota - Twin Cities, MN during Spring 2021.
 
 ### Assignment 1 - Multivariate Gaussian Classifiers
 For this assignment, I implemented two multivariate Gaussian classifiers with different assumptions:
